@@ -6,7 +6,7 @@
 
 <h1>
 <p align=center>
-  <a href="github.com/rushkii">Kiizuha</a>
+  <a href="https://github.com/rushkii">Kiizuha</a>
 </p>
 </h1>
 <!---
