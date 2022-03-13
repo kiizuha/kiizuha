@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Go
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on backend
-- 📫 How to reach me t.me/nekoha t.me/kiizuah
+- 📫 How to reach me [Kiizuha](t.me/nekoha) [Kiizuha2](t.me/kiizuah)
 
 <h1>
 <p align=center>
